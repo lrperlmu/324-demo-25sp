@@ -2,8 +2,8 @@
 
 ## section 1
 
-- Mocha
-- Catsby
+- Mocha is a chocolate cat. 
+- Catsby is fat. 
 - Onyx
 - Chip
 - Bob
