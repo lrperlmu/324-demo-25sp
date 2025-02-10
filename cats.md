@@ -2,8 +2,8 @@
 
 ## section 1
 
-- Mocha is Leah's cat!
-- Catsby is handsome (: 
+- Mocha is Leah's chocolate cat!
+- Catsby is handsome and fat (:
 - Onyx
 - Chip
 - Bob
