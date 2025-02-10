@@ -6,6 +6,8 @@
 - Catsby
 - Onyx
 - Chip
+- Bob
+- Odin
 
 
 ## section 2
