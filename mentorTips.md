@@ -1,0 +1,3 @@
+- be nice
+- listen to the weeknd
+- be proactive
