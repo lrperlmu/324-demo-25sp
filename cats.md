@@ -8,7 +8,7 @@
 - Chip
 - Bob
 - Odin
-- Cat named dog!!!
+- Cat named "Dog"!!!
 
 
 ## section 2
